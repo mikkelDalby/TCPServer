@@ -16,8 +16,8 @@ public class TCPServerDemo {
     private static String token;
     private static String fileName;
 
-    public static void main(String argv[]) throws Exception
-    {
+    public static void main(String argv[]) throws Exception {
+        // Test jenkins
         System.out.println("starting main");
         boolean go_on = true;
         int counter = 0;
